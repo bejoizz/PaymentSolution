@@ -1,0 +1,12 @@
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\bin\Debug\netcoreapp3.1\PaymentData.deps.json
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\bin\Debug\netcoreapp3.1\PaymentData.dll
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\bin\Debug\netcoreapp3.1\PaymentData.pdb
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\obj\Debug\netcoreapp3.1\PaymentData.csprojAssemblyReference.cache
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\obj\Debug\netcoreapp3.1\PaymentData.AssemblyInfoInputs.cache
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\obj\Debug\netcoreapp3.1\PaymentData.AssemblyInfo.cs
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\obj\Debug\netcoreapp3.1\PaymentData.csproj.CoreCompileInputs.cache
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\obj\Debug\netcoreapp3.1\PaymentData.dll
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\obj\Debug\netcoreapp3.1\PaymentData.pdb
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\bin\Debug\netcoreapp3.1\PaymentData.runtimeconfig.json
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\bin\Debug\netcoreapp3.1\PaymentData.runtimeconfig.dev.json
+C:\Users\bejoi\source\repos\PaymentSolution\PaymentData\obj\Debug\netcoreapp3.1\PaymentData.genruntimeconfig.cache
